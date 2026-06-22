@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=I+build+things+that+move%2C+think+%26+trade+%F0%9F%A4%96;President+of+UKM+ROBOCON+%F0%9F%A4%96;From+FPGA+gates+to+LLMs+at+the+edge+%F0%9F%94%A5;Multiple+hackathon+award+winner+%F0%9F%8F%86" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=Build+%7C+Train+%7C+Deploy+%F0%9F%A4%96;President+of+UKM+ROBOCON+%F0%9F%8F%86;AI+%2B+Edge+Computing+Enthusiast+%F0%9F%94%A5;Hackathon+Award+Winner+%F0%9F%8F%85" alt="Typing SVG" /></a>
 
   <br/>
   
@@ -15,23 +15,23 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## 🧑‍💻 About Me
 
-🎓 **Year 2 Electrical & Electronic Engineering** @ **UKM**
+<img align="right" alt="Coding" width="240" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+🎓 **Year 2 EE** @ **UKM** (Universiti Kebangsaan Malaysia)
 
 📍 Kuala Lumpur, Malaysia
 
-🤖 **President of UKM ROBOCON** | ROBOCON UKM 2025 Representative
+🤖 **President of UKM ROBOCON** | ROBOCON 2025 Rep
 
-🔭 Currently working on **NI ARC 2026** — Autonomous Hoops Robot
+🔭 Working on **NI ARC 2026** — Autonomous Hoops Robot
 
-🧠 Passionate about **AI**, **LLMs**, and **Edge Computing**
+🧠 Passionate about **AI**, **LLMs** & **Edge Computing**
 
 🏆 Multiple hackathon **1st & 2nd Runner-Up** awards
 
-💡 I believe hardware + AI is the future
+💡 Hardware + AI is the future
 
 <br clear="both"/>
 
