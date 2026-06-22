@@ -19,7 +19,7 @@
 
 <img align="right" alt="Coding" width="240" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-🎓 **Year 2 EE** @ **UKM** | Kuok Foundation Scholar
+🎓 **Year 2 EE** @ **The National University of Malaysia (UKM)** | Kuok Foundation Scholar
 
 📍 Kuala Lumpur, Malaysia
 
