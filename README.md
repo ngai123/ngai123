@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=I+build+things+that+move%2C+think+%26+trade+%F0%9F%A4%96;From+FPGA+gates+to+neural+networks+%F0%9F%94%A5;6+hackathons+in+2025+%F0%9F%8F%86" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=I+build+things+that+move%2C+think+%26+trade+%F0%9F%A4%96;President+of+UKM+ROBOCON+%F0%9F%A4%96;From+FPGA+gates+to+LLMs+at+the+edge+%F0%9F%94%A5;Multiple+hackathon+award+winner+%F0%9F%8F%86" alt="Typing SVG" /></a>
 
   <br/>
   
@@ -19,15 +19,17 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **Electrical Engineering** student @ **UKM** (Universiti Kebangsaan Malaysia)
+🎓 **Year 2 Electrical & Electronic Engineering** @ **UKM**
 
 📍 Kuala Lumpur, Malaysia
 
+🤖 **President of UKM ROBOCON** | ROBOCON UKM 2025 Representative
+
 🔭 Currently working on **NI ARC 2026** — Autonomous Hoops Robot
 
-⚡ I go from training **LSTM models** to predict Bitcoin, to programming **FPGA gesture games**, to writing **robot firmware** for competitions
+🧠 Passionate about **AI**, **LLMs**, and **Edge Computing**
 
-🏆 **6 competitions** in 2025 alone
+🏆 Multiple hackathon **1st & 2nd Runner-Up** awards
 
 💡 I believe hardware + AI is the future
 
@@ -35,18 +37,33 @@
 
 ---
 
-## 🏆 Competition Track Record
+## 🏆 Achievements & Awards
 
 <div align="center">
 
-| 🗓️ | 🎯 Event | 🛠️ Project | 💡 Tech |
-|:---:|----------|-----------|---------|
-| 🥇 | **Vhack 2025** | Bitcoin Trading ML Platform | HMM + CNN + Ensemble |
-| 🥇 | **UM Hackathon 2025** | On-Chain Trading Machine | LSTM-CNN + NLP + HMM |
-| 🤖 | **ROBOCON 2025** | Robot Control System | ESP32 + Arduino |
-| 🏷️ | **UMACT 2025** | Complaint Auto-Tagger | BERT + ML Pipeline |
-| 👁️ | **Shark Tank UKM 2025** | Object Detection App | YOLO + Flutter |
-| 📊 | **UM Datathon 2025** | Data Analysis Pipeline | scikit-learn + pandas |
+| 🏅 | 🎯 Event | 🏆 Result |
+|:---:|----------|:--------:|
+| 🥈 | **Vhack 2025** | **1st Runner-Up** |
+| 🥉 | **UM Hackathon 2025** | **2nd Runner-Up** |
+| 🥈 | **Sime Darby Hackathon** | **1st Runner-Up** |
+| 🥉 | **Google Cloud Hackathon Malaysia** | **2nd Runner-Up** |
+| ⭐ | **Embedded LLM** | **Top 8 Projects** |
+
+</div>
+
+---
+
+## 🤖 Competition & Leadership
+
+<div align="center">
+
+| Role | Details |
+|:-----|:--------|
+| 👑 **President** | UKM ROBOCON Club |
+| 🏁 **Representative** | ROBOCON UKM 2025 |
+| 🏷️ **UMACT 2025** | Complaint Auto-Tagger (BERT + ML Pipeline) |
+| 👁️ **Shark Tank UKM 2025** | Object Detection App (YOLO + Flutter) |
+| 📊 **UM Datathon 2025** | Data Analysis Pipeline (scikit-learn + pandas) |
 
 </div>
 
