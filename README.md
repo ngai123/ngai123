@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=Build+%7C+Train+%7C+Deploy+%F0%9F%A4%96;President+of+UKM+ROBOCON+%F0%9F%8F%86;AI+%2B+Edge+Computing+Enthusiast+%F0%9F%94%A5;Hackathon+Award+Winner+%F0%9F%8F%85" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=Build+%7C+Train+%7C+Deploy+%F0%9F%A4%96;20K%2B+Followers+%7C+7M%2B+Views+%F0%9F%93%B1;President+of+ROBOCON+UKM+%F0%9F%8F%86;AI+%2B+Edge+Computing+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" /></a>
 
   <br/>
   
@@ -19,17 +19,17 @@
 
 <img align="right" alt="Coding" width="240" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-🎓 **Year 2 EE** @ **UKM** (Universiti Kebangsaan Malaysia)
+🎓 **Year 2 EE** @ **UKM** | Kuok Foundation Scholar
 
 📍 Kuala Lumpur, Malaysia
 
-🤖 **President of UKM ROBOCON** | ROBOCON 2025 Rep
-
-🔭 Working on **NI ARC 2026** — Autonomous Hoops Robot
+🤖 **President of ROBOCON UKM** | **Gamuda AI Lead**
 
 🧠 Passionate about **AI**, **LLMs** & **Edge Computing**
 
 🏆 Multiple hackathon **1st & 2nd Runner-Up** awards
+
+📱 **20K+ followers** | **7M+ views** — AI content creator
 
 💡 Hardware + AI is the future
 
@@ -43,9 +43,9 @@
 
 | 🏅 | 🎯 Event | 🏆 Result |
 |:---:|----------|:--------:|
+| 🥈 | **Sime Darby Hackathon** | **1st Runner-Up** |
 | 🥈 | **Vhack 2025** | **1st Runner-Up** |
 | 🥉 | **UM Hackathon 2025** | **2nd Runner-Up** |
-| 🥈 | **Sime Darby Hackathon** | **1st Runner-Up** |
 | 🥉 | **Google Cloud Hackathon Malaysia** | **2nd Runner-Up** |
 | ⭐ | **Embedded LLM** | **Top 8 Projects** |
 
@@ -53,19 +53,34 @@
 
 ---
 
-## 🤖 Competition & Leadership
+## 👑 Leadership & Scholarships
 
 <div align="center">
 
-| Role | Details |
-|:-----|:--------|
-| 👑 **President** | UKM ROBOCON Club |
-| 🏁 **Representative** | ROBOCON UKM 2025 |
-| 🏷️ **UMACT 2025** | Complaint Auto-Tagger (BERT + ML Pipeline) |
-| 👁️ **Shark Tank UKM 2025** | Object Detection App (YOLO + Flutter) |
-| 📊 **UM Datathon 2025** | Data Analysis Pipeline (scikit-learn + pandas) |
+| | Role |
+|:---:|:-----|
+| 🎓 | **Kuok Foundation Scholarship Holder** |
+| 🤖 | **Gamuda AI Academy — AI Lead** |
+| 📡 | **Axiata ULDP Scholar** |
+| 🏁 | **President of ROBOCON UKM** |
 
 </div>
+
+---
+
+## 📱 Content Creation
+
+<div align="center">
+
+![Followers](https://img.shields.io/badge/Followers-20K+-FF2442?style=for-the-badge&logo=tiktok&logoColor=white)
+![Views](https://img.shields.io/badge/Cumulative_Views-7M+-6C63FF?style=for-the-badge&logo=youtube&logoColor=white)
+
+</div>
+
+🎙️ Malaysian **AI content creator** with **20K+ followers** and over **7 million cumulative views**, making AI accessible and practical for a Malaysian audience.
+
+[![Instagram](https://img.shields.io/badge/Instagram-markues__success-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/markues_success)
+[![Xiaohongshu](https://img.shields.io/badge/小红书-豪贤GieGie-FF2442?style=for-the-badge)](https://www.xiaohongshu.com)
 
 ---
 
