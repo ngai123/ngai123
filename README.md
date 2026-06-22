@@ -51,7 +51,7 @@
 
 <!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:FF6B6B,100:6C63FF&height=40&section=header&text=🏆%20ACHIEVEMENTS%20%26%20AWARDS&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:FF6B6B,100:6C63FF&height=40&section=header&text=🏆%20ACHIEVEMENTS%20AND%20AWARDS&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <br/>
 
@@ -86,7 +86,7 @@
 
 <!-- ═══════════════════════ LEADERSHIP ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00A3E0&height=40&section=header&text=👑%20LEADERSHIP%20%26%20SCHOLARSHIPS&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00A3E0&height=40&section=header&text=👑%20LEADERSHIP%20AND%20SCHOLARSHIPS&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <br/>
 
