@@ -229,8 +229,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- TROPHIES -->
-
+<!-- TROPHIES (temporarily hidden: github-profile-trophy.vercel.app is down — HTTP 402 DEPLOYMENT_DISABLED. Uncomment to restore, ideally pointing at a self-hosted instance.)
 ## 🏅 GitHub Trophies
 
 <div align="center">
@@ -238,6 +237,7 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+-->
 
 <!-- QUOTE -->
 
@@ -269,3 +269,4 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:FF6B6B,100:6C63FF&height=120&section=footer" />
+
