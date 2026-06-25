@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="Markues Ngai — AI Engineer · Robotics Builder · Content Creator" width="100%" />
+
 # Markues Ngai
 
 **Electrical & Electronic Engineering (Year 2)** · The National University of Malaysia (UKM)
