@@ -58,11 +58,11 @@ Projects are organized into two repositories:
 
 ## Technical Skills
 
-**Languages** — Python, C/C++, JavaScript/TypeScript, Dart, VHDL
-**AI / ML** — TensorFlow, PyTorch, scikit-learn, Keras, OpenCV, Hugging Face
-**Hardware** — Arduino, ESP32, Raspberry Pi, FPGA (Vivado)
-**Web** — FastAPI, Flask, Next.js, Flutter, React
-**Tools** — Git, Docker, Linux, Google Cloud
+- **Languages** — Python, C/C++, JavaScript/TypeScript, Dart, VHDL
+- **AI / ML** — TensorFlow, PyTorch, scikit-learn, Keras, OpenCV, Hugging Face
+- **Hardware** — Arduino, ESP32, Raspberry Pi, FPGA (Vivado)
+- **Web** — FastAPI, Flask, Next.js, Flutter, React
+- **Tools** — Git, Docker, Linux, Google Cloud
 
 ---
 
