@@ -1,78 +1,81 @@
-<img src="assets/banner.png" alt="Markues Ngai — AI Engineer · Robotics Builder · Content Creator" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Markues Ngai — electrical engineering at UKM; robots, LLM tools and short AI videos" width="100%">
+</picture>
 
-# Markues Ngai
+<p>
+  <a href="https://www.linkedin.com/in/markues-ngai"><img src="https://img.shields.io/badge/LinkedIn-markues--ngai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/markues_success"><img src="https://img.shields.io/badge/Instagram-markues__success-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.xiaohongshu.com"><img src="https://img.shields.io/badge/小红书-豪贤GieGie-FF2442?style=for-the-badge" alt="Xiaohongshu"></a>
+</p>
 
-**Electrical & Electronic Engineering (Year 3)** · The National University of Malaysia (UKM)
-Kuala Lumpur, Malaysia
+I'm a third-year EE student at UKM in Kuala Lumpur. Most days I'm splitting time between a robot that has to score on its own, some code that has to work by the deadline, and a one-minute video teaching someone how to get a small job done with AI.
 
-AI engineer and builder working across machine learning, embedded systems, and robotics. President of ROBOCON UKM, AI content creator, and multiple-time hackathon finalist.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readouts-dark.svg">
+  <img src="assets/readouts-light.svg" alt="28K+ followers across IG, Xiaohongshu and Facebook · 4 hackathon podiums · 30 people in ROBOCON UKM" width="100%">
+</picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Markues_Ngai-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markues-ngai)
-[![Instagram](https://img.shields.io/badge/Instagram-markues__success-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/markues_success)
-[![Xiaohongshu](https://img.shields.io/badge/小红书-豪贤GieGie-FF2442?style=flat-square)](https://www.xiaohongshu.com)
+## Things I've built
 
----
+<table>
+<tr>
+<td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nirc-dark.svg"><img src="assets/card-nirc-light.svg" alt="NI ARC 2026 simulator" width="100%"></picture></td>
+<td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-arena-dark.svg"><img src="assets/card-arena-light.svg" alt="AI Trading Arena" width="100%"></picture></td>
+</tr>
+<tr>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-fpga-dark.svg"><img src="assets/card-fpga-light.svg" alt="FPGA gesture game" width="100%"></picture></td>
+<td><a href="https://github.com/ngai123/2025"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vhack-dark.svg"><img src="assets/card-vhack-light.svg" alt="Vhack 2025 BTC regime trader" width="100%"></picture></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/ngai123/2025"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-umact-dark.svg"><img src="assets/card-umact-light.svg" alt="UMACT 2025 complaint auto-tagger" width="100%"></picture></a></td>
+<td><a href="https://github.com/diwenne/openreply"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-openreply-dark.svg"><img src="assets/card-openreply-light.svg" alt="openreply fork" width="100%"></picture></a></td>
+</tr>
+</table>
 
-## About
+<details>
+<summary><b>Where the code lives</b> (click)</summary>
+<br>
 
-- 🎓 Kuok Foundation Scholar · Axiata ULDP Scholar
-- 🤖 President of ROBOCON UKM · AI Lead at Gamuda AI Academy
-- 🧠 Focused on AI, LLMs, and edge computing
-- 📱 AI content creator — 20K+ followers, 7M+ cumulative views
-- 🌏 Based in Kuala Lumpur, Malaysia
+- [`2025`](https://github.com/ngai123/2025): competitions and hackathons (Vhack, UM Hackathon, ROBOCON, UMACT, SharkTank UKM, UM Datathon). Public.
+- `2026`: this year's projects and forks. Private for now. Ask me if you want a look.
 
----
+</details>
 
-## Achievements
+## Podium so far
 
-| Result | Event |
-|--------|-------|
-| 1st Runner-Up | Sime Darby Hackathon |
-| 1st Runner-Up | Vhack 2025 |
-| 2nd Runner-Up | UM Hackathon 2025 |
-| 2nd Runner-Up | Google Cloud Hackathon Malaysia |
-| Top 8 Projects | Embedded LLM |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/podium-dark.svg">
+  <img src="assets/podium-light.svg" alt="1st runner-up: Sime Darby Hackathon, Vhack 2025. 2nd runner-up: UM Hackathon 2025, Google Cloud Hackathon Malaysia. Top 8: Embedded LLM." width="100%">
+</picture>
 
-## Leadership & Scholarships
+<details>
+<summary><b>Outside the code</b> (click)</summary>
+<br>
 
-- **Kuok Foundation** — Scholarship Holder
-- **Gamuda AI Academy** — AI Lead
-- **Axiata ULDP** — Scholar
-- **ROBOCON UKM** — President
+| | |
+|---|---|
+| ROBOCON UKM | President, 30-person team |
+| NI ARC 2026 | Team captain, LabVIEW |
+| Gamuda AI Academy | AI Lead |
+| Kuok Foundation | Scholar |
+| Axiata ULDP | Scholar |
+| `@markues_success` | Daily series: *one minute, one small problem solved with AI* (in Chinese) |
 
----
+</details>
 
-## Selected Work
+## Toolbox
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **NI ARC 2026** | Autonomous hoops robot simulator | Webots · MuJoCo · Python |
-| **AI Trading Arena** | Multi-agent LLM paper-trading platform | FastAPI · Next.js · LLMs |
-| **FPGA Gesture Game** | Accelerometer game on Nexys A7-100T | VHDL · VGA · SPI |
-| [**Vhack 2025**](https://github.com/ngai123/2025) | Bitcoin trading ML platform (HMM + CNN + Ensemble) | Python · TensorFlow |
-| [**UMACT 2025**](https://github.com/ngai123/2025) | Complaint auto-tagging system | BERT · scikit-learn |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,ts,dart,pytorch,tensorflow,sklearn,opencv,arduino,raspberrypi,fastapi,nextjs,flutter,docker,linux,gcp&theme=dark&perline=8">
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,dart,pytorch,tensorflow,sklearn,opencv,arduino,raspberrypi,fastapi,nextjs,flutter,docker,linux,gcp&theme=light&perline=8" alt="Python, C++, TypeScript, Dart, PyTorch, TensorFlow, scikit-learn, OpenCV, Arduino, Raspberry Pi, FastAPI, Next.js, Flutter, Docker, Linux, Google Cloud">
+</picture>
 
-Projects are organized into two repositories:
-[**`2025`**](https://github.com/ngai123/2025) (competitions & hackathons) and
-**`2026`** (current projects & open-source work — private).
+Plus VHDL on Vivado, ESP32, LabVIEW, and Hugging Face.
 
----
+## Commit history, eaten daily
 
-## Technical Skills
-
-- **Languages** — Python, C/C++, JavaScript/TypeScript, Dart, VHDL
-- **AI / ML** — TensorFlow, PyTorch, scikit-learn, Keras, OpenCV, Hugging Face
-- **Hardware** — Arduino, ESP32, Raspberry Pi, FPGA (Vivado)
-- **Web** — FastAPI, Flask, Next.js, Flutter, React
-- **Tools** — Git, Docker, Linux, Google Cloud
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ngai123&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars,prs" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngai123&layout=compact&theme=default&hide_border=true&langs_count=8" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngai123/ngai123/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ngai123/ngai123/output/github-snake.svg" alt="Snake eating my contribution graph" width="100%">
+</picture>
