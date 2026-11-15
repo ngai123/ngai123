@@ -20,16 +20,16 @@ I'm a third-year EE student at UKM in Kuala Lumpur. Most days I'm splitting time
 
 <table>
 <tr>
-<td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nirc-dark.svg"><img src="assets/card-nirc-light.svg" alt="NI ARC 2026 simulator" width="100%"></picture></td>
-<td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-arena-dark.svg"><img src="assets/card-arena-light.svg" alt="AI Trading Arena" width="100%"></picture></td>
+<td width="50%"><a href="https://github.com/ngai123/2026/tree/main/self_projects/ni-arc-2026-sim"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nirc-dark.svg"><img src="assets/card-nirc-light.svg" alt="NI ARC 2026 simulator" width="100%"></picture></a></td>
+<td width="50%"><a href="https://github.com/ngai123/2026/tree/main/self_projects/ai-trading-arena"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-arena-dark.svg"><img src="assets/card-arena-light.svg" alt="AI Trading Arena" width="100%"></picture></a></td>
 </tr>
 <tr>
-<td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-fpga-dark.svg"><img src="assets/card-fpga-light.svg" alt="FPGA gesture game" width="100%"></picture></td>
+<td><a href="https://github.com/ngai123/2026/tree/main/self_projects/KKEE2163-Digital-Electronics-Project"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-fpga-dark.svg"><img src="assets/card-fpga-light.svg" alt="FPGA gesture game" width="100%"></picture></a></td>
 <td><a href="https://github.com/ngai123/2025"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vhack-dark.svg"><img src="assets/card-vhack-light.svg" alt="Vhack 2025 BTC regime trader" width="100%"></picture></a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/ngai123/2025"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-umact-dark.svg"><img src="assets/card-umact-light.svg" alt="UMACT 2025 complaint auto-tagger" width="100%"></picture></a></td>
-<td><a href="https://github.com/diwenne/openreply"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-openreply-dark.svg"><img src="assets/card-openreply-light.svg" alt="openreply fork" width="100%"></picture></a></td>
+<td><a href="https://github.com/ngai123/2026/tree/main/open_source/openreply"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-openreply-dark.svg"><img src="assets/card-openreply-light.svg" alt="openreply fork" width="100%"></picture></a></td>
 </tr>
 </table>
 
@@ -38,7 +38,7 @@ I'm a third-year EE student at UKM in Kuala Lumpur. Most days I'm splitting time
 <br>
 
 - [`2025`](https://github.com/ngai123/2025): competitions and hackathons (Vhack, UM Hackathon, ROBOCON, UMACT, SharkTank UKM, UM Datathon). Public.
-- `2026`: this year's projects and forks. Private for now. Ask me if you want a look.
+- [`2026`](https://github.com/ngai123/2026): this year's projects and open-source forks. Public.
 
 </details>
 
