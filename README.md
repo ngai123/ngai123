@@ -67,7 +67,7 @@ I'm a third-year EE student at UKM in Kuala Lumpur. Most days I'm splitting time
 ## Toolbox
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,ts,dart,pytorch,tensorflow,sklearn,opencv,arduino,raspberrypi,fastapi,nextjs,flutter,docker,linux,gcp&theme=dark&perline=8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Ccpp%2Cts%2Cdart%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Carduino%2Craspberrypi%2Cfastapi%2Cnextjs%2Cflutter%2Cdocker%2Clinux%2Cgcp&theme=dark&perline=8">
   <img src="https://skillicons.dev/icons?i=py,cpp,ts,dart,pytorch,tensorflow,sklearn,opencv,arduino,raspberrypi,fastapi,nextjs,flutter,docker,linux,gcp&theme=light&perline=8" alt="Python, C++, TypeScript, Dart, PyTorch, TensorFlow, scikit-learn, OpenCV, Arduino, Raspberry Pi, FastAPI, Next.js, Flutter, Docker, Linux, Google Cloud">
 </picture>
 
