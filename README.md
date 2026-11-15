@@ -2,7 +2,7 @@
 
 # Markues Ngai
 
-**Electrical & Electronic Engineering (Year 2)** · The National University of Malaysia (UKM)
+**Electrical & Electronic Engineering (Year 3)** · The National University of Malaysia (UKM)
 Kuala Lumpur, Malaysia
 
 AI engineer and builder working across machine learning, embedded systems, and robotics. President of ROBOCON UKM, AI content creator, and multiple-time hackathon finalist.
@@ -46,15 +46,15 @@ AI engineer and builder working across machine learning, embedded systems, and r
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**NI ARC 2026**](https://github.com/ngai123/2026) | Autonomous hoops robot simulator | Webots · MuJoCo · Python |
-| [**AI Trading Arena**](https://github.com/ngai123/2026) | Multi-agent LLM paper-trading platform | FastAPI · Next.js · LLMs |
-| [**FPGA Gesture Game**](https://github.com/ngai123/2026) | Accelerometer game on Nexys A7-100T | VHDL · VGA · SPI |
+| **NI ARC 2026** | Autonomous hoops robot simulator | Webots · MuJoCo · Python |
+| **AI Trading Arena** | Multi-agent LLM paper-trading platform | FastAPI · Next.js · LLMs |
+| **FPGA Gesture Game** | Accelerometer game on Nexys A7-100T | VHDL · VGA · SPI |
 | [**Vhack 2025**](https://github.com/ngai123/2025) | Bitcoin trading ML platform (HMM + CNN + Ensemble) | Python · TensorFlow |
 | [**UMACT 2025**](https://github.com/ngai123/2025) | Complaint auto-tagging system | BERT · scikit-learn |
 
 Projects are organized into two repositories:
 [**`2025`**](https://github.com/ngai123/2025) (competitions & hackathons) and
-[**`2026`**](https://github.com/ngai123/2026) (current projects & open-source work).
+**`2026`** (current projects & open-source work — private).
 
 ---
 
